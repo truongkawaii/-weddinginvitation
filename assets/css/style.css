@@ -370,6 +370,7 @@
     }
     
     .guest .guest__list li {
+        white-space: nowrap;
         font-size: 1rem;
         padding: 0.8rem 1.8rem;
         color: #696767;
@@ -434,6 +435,10 @@
         font-weight: 700;
         font-family: 'Dancing Script', sans-serif;
         color: white;
+    }
+    
+    .attend__card {
+        padding: 1.5rem;
     }
     
     .attend p {
